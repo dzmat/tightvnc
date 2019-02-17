@@ -6,9 +6,6 @@
 #include <utility> 
 #include "thread/AutoLock.h"
 
-// does not works on XP
-#include "Realtimeapiset.h"
-
 ProfileLogger::~ProfileLogger()
 {
 }
